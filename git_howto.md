@@ -104,3 +104,8 @@ git push -u origin <название ветки>
 ```sh
 git remote -v
 ```
+
+## Отображение подключенных удаленных репозиториев подробно
+```sh
+git remote show origin
+```

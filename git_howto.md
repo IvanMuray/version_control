@@ -94,3 +94,8 @@ git branch -M <новое_имя_ветки>
 ```sh
 git remote add origin <адрес репозитория>
 ```
+
+## Отправка на сервер
+```sh
+git push -u origin <название ветки>
+```

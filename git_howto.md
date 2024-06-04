@@ -119,3 +119,8 @@ git pull
 ```sh
 git push --set-upstream origin <имя ветки>
 ```
+
+## Удаление ветки на сервере с локального терминала
+```sh
+git push origin --delete <имя ветки>
+```

@@ -124,3 +124,8 @@ git push --set-upstream origin <имя ветки>
 ```sh
 git push origin --delete <имя ветки>
 ```
+
+## Слияние веток с загрузкой репозитория с сервера
+```sh
+git pull --rebase
+```

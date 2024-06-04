@@ -109,3 +109,8 @@ git remote -v
 ```sh
 git remote show origin
 ```
+
+## Загрузка изменений с сервера
+```sh
+git pull
+```

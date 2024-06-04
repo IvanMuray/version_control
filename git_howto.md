@@ -114,3 +114,8 @@ git remote show origin
 ```sh
 git pull
 ```
+
+## Отправка на сервер активной ветки
+```sh
+git push --set-upstream origin <имя ветки>
+```
